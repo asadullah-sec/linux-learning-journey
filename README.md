@@ -50,8 +50,8 @@ linux-learning-journey/
 - [x] Basic navigation commands (`pwd`, `ls`, `cd`, `mkdir`, `rmdir`)
 - [x] Mounted Windows drives from Linux
 - [x] Opened VS Code from Linux terminal
-- [ ] File permissions (`chmod`, `chown`)
-- [ ] Process management
+- [x] File permissions (`chmod`, `chown`)
+- [x] Process management
 - [ ] Bash scripting
 - [ ] SSH & networking basics
 - [ ] `grep`, `awk`, `sed`
@@ -67,7 +67,7 @@ linux-learning-journey/
 - [x] GitHub profile setup
 - [x] First repository created
 - [x] Daily documentation habit started
-- [ ] Git from terminal (`add`, `commit`, `push`)
+- [x] Git from terminal (`add`, `commit`, `push`)
 - [ ] Branching & merging
 
 ---
